@@ -14,3 +14,5 @@ https://github.com/ritesh705/api-gateway
 
 https://github.com/ritesh705/config-server
 
+https://github.com/ritesh705/microservices-config-repo
+
