@@ -12,3 +12,5 @@ https://github.com/ritesh705/eureka-server
 
 https://github.com/ritesh705/api-gateway
 
+https://github.com/ritesh705/config-server
+
